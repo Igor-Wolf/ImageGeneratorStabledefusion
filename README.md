@@ -1,2 +1,15 @@
-# ImageGeneratorStabledefusion
-Gerador de imagens utilizando modelos do stabledefusion através de jupiter notebooks
+# Gerador de imagens do stabledefusion 3
+
+Stabledefusion 3 mediun rodando localmente via jupter notebook
+
+
+py -3.10 -m venv venv310
+
+.\venv310\Scripts\activate
+
+pip install -r requirements.txt
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+
+
