@@ -1,6 +1,6 @@
 # Gerador de imagens do stabledefusion 3
 
-Stabledefusion 3 mediun rodando localmente via jupter notebook
+Stabledefusion 3 medium rodando localmente via jupyter notebook
 
 
 py -3.10 -m venv venv310
